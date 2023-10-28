@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(245, 245, 245);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.center {
+    text-align: center;
+}
+
+.underline {
+    text-decoration: underline;
+    display: inline;
+}
+
+.inline {
+    display: inline;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.color {
+    color: red;
+}
+
+.tags {
+    color: rgb(27, 117, 133);
+    background-color: silver;
+    display: inline;
+}
+
+.background {
+    background-color: rgba(192, 192, 192, 0.26);
+}
+
+.background__text {
+    background-color: rgba(192, 192, 192, 0.507);
+}
